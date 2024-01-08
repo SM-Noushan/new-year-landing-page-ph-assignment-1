@@ -412,6 +412,10 @@ footer {
     justify-content: space-between;
 }
 
+.footer-main .copyrights {
+    padding-top: 30px;
+}
+
 .footer-main .contact * {
     color: #FFF;
     font-family: Inter;
